@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="lightningstaff"
+version="1.0"
+displayName="Advanced lightning staff mod"
+logoFile="logo.png"
+credits=""
+authors="jakpakhak"
+description='''
+Mod adds advanced flash staff to the Minecraft 1.17
+'''
