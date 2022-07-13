@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ZY",
+        " XZ",
+        "X  "
+    ],
+    "key": {
+        "Z": {
+            "item": "minecraft:diamond"
+        },
+        "X":{
+             "item":"minecraft:stick"
+        },
+        "Y":{
+             "item":"minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "lightningstaff:lightning_staff",
+        "count": 1
+    }
+}
